@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+python-docx
+fpdf2
+joblib
+numpy
+torch
+transformers
+scikit-learn
+plotly
+nbformat
